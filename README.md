@@ -6,3 +6,4 @@ Under the collaboration of:
 
 - Phạm Dương Vũ
 - Trần Vinh Quang
+- Lê Quang Nhật
